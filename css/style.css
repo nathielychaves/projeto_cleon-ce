@@ -11,7 +11,11 @@ body {
 h1, h2, h3, h4, h5, p, span {
 	margin: 0;
 	color: #F0E68C;
-	text-stroke: #fff;
+	font-family: Helvetica;
+    color: #FFB6C1;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #DB7093;
+
 }
 
 .container {
